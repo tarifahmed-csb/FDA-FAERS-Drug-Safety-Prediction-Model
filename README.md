@@ -23,8 +23,7 @@ This project analyzes FDA adverse event reports from Q2 2025 to:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fda-faers-drug-safety.git
-cd fda-faers-drug-safety
+git clone git@github.com:tarifahmed-csb/FDA-FAERS-Drug-Safety-Prediction-Model.git
 ```
 
 ### 2. Download the FAERS data
